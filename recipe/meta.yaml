@@ -29,6 +29,7 @@ requirements:
     - scipy
     - sparse
     - xlcompose >=0.2.4
+    - dill
 
 test:
   imports:
