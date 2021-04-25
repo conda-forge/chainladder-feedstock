@@ -1,5 +1,5 @@
 {% set name = "chainladder" %}
-{% set version = "0.8.2" %}
+{% set version = "0.8.3" %}
 
 
 package:
@@ -8,7 +8,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/chainladder-{{ version }}.tar.gz
-  sha256: b33ef67864951324be59e492fb8d77a6cb2c92a6fab5cad7e9e6b6b7d16a349d
+  sha256: 4d67c76b6707f35631ebaa38836951359b4022c4646773d92fcb8911e97dc798
 
 build:
   number: 0
