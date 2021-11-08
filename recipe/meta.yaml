@@ -28,7 +28,6 @@ requirements:
     - scikit-learn >=0.23.0
     - scipy
     - sparse
-    - xlcompose >=0.2.4
     - dill
     - patsy
 
